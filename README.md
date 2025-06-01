@@ -1,5 +1,6 @@
 # 3D-Sign-Model
 This has codes that display 3d animation according to user speech
+the codes were large to be added on repositry the code to the utorrent is below before the credits.
 # 3D Alphabet Visualizer
 
 An interactive 3D visualization tool that displays alphabet letters in 3D when spoken. The application uses speech recognition to capture spoken letters and renders corresponding 3D models in real-time.
@@ -70,6 +71,10 @@ Chrome or Edge recommended for best speech recognition support
 ### Speech recognition accuracy varies by browser and environment
 ### Requires modern browser with WebGL and Web Speech API support
 ### Performance may vary based on device capabilities
+
+
+
+# https://utweb.rainberrytv.com/gui/share.html#link=magnet%3A%3Fxt%3Durn%3Abtih%3Ac6bcd9685451298e4c69a179b4dd87b5bdeb74f2%26dn%3Dsign%2520project%26tr%3Dudp%253a%252f%252ftracker.openbittorrent.com%253a80%252fannounce%26tr%3Dudp%253a%252f%252ftracker.opentrackr.org%253a1337%252fannounce
 
 # Credits
   ## Nezerwa Ndayisenga hope
