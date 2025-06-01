@@ -1,7 +1,7 @@
 # 3D-Sign-Model
-# The code to the utorrent is below before the credits.
+# The codes were large to be added on repositry . The code to the utorrent is below before the credits.
 This has codes that display 3d animation according to user speech
-the codes were large to be added on repositry .
+
 # 3D Alphabet Visualizer
 
 An interactive 3D visualization tool that displays alphabet letters in 3D when spoken. The application uses speech recognition to capture spoken letters and renders corresponding 3D models in real-time.
